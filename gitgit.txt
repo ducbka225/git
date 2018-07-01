@@ -1,2 +1,3 @@
-ada
+﻿ada
 pull xuống
+add: Đăng ký thay đổi trong index
